@@ -12,6 +12,8 @@ Customer support chatbot automate routine inquiries, offering 24/7 assistance an
 - Booking and Scheduling
 - Returns and Refunds
 - Personalization recommendation
+
+  
 Common Customer Support Chatbot Failures
 - Failed Intent Recognition
 - Poor Escalation Pathways
